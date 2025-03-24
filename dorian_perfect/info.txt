@@ -1,0 +1,15 @@
+Steganography Output - 2025-03-24 13:13:17
+Used all channels: Yes
+Embedded message: 'The Project Gutenberg eBook of The Picture of Dorian Gray
+    
+This ebook is for the use of anyone a...' (truncated, 448620 chars total)
+Message length: 456947 bytes
+Image dimensions: 1000x1000
+Steganography capacity: 6000000 bits (750000 bytes)
+
+Verification status: PASSED ✓
+Verified length: 448620 characters
+Content match: 100.00%
+CRC32 verified: Yes
+
+To extract the message, run: python3 main.py -e -i dorian_perfect/stego_message.png -a -o extract_output
