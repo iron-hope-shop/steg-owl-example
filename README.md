@@ -1,6 +1,8 @@
-# Steganography Owl Example
+![Graphic]OCRG_Bubo-37.png)
 
-This repository demonstrates image steganography by hiding text within image files. The primary example embeds the entire text of Oscar Wilde's "The Picture of Dorian Gray" within a purple owl image!
+# Steganography Owl/Bunny Example
+
+This repository demonstrates image steganography by hiding text within image files. The primary example embeds the entire text of Oscar Wilde's "The Picture of Dorian Gray" within a purple owl image! Okay it looks like a bunny. So what?
 
 ## What is Steganography?
 
