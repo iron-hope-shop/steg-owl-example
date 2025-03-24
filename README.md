@@ -1,4 +1,4 @@
-![Graphic]OCRG_Bubo-37.png)
+![Graphic](OCRG_Bubo-37.png)
 
 # Steganography Owl/Bunny Example
 
